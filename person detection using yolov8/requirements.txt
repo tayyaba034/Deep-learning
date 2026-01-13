@@ -1,0 +1,6 @@
+# Core Dependencies (Loosened versions for compatibility)
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
